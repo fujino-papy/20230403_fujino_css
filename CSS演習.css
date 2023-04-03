@@ -1,0 +1,32 @@
+.absolute__img {
+    position: absolute;
+    margin-left: 70%;
+}
+.relative__box {
+    position: relative;
+    width: 70%;
+    height: 200px;
+    bottom: 15%;
+    background: purple;
+}
+p{
+    font-size: 75px;
+    padding-top: 50px;
+}
+.header_ttl {
+    display: block;
+    margin-top: 50px ;
+    width: 300px;
+    font-size: 25px;
+    color: blue;
+    font-weight: bolder;
+}
+.flex {
+    display: flex;
+    justify-content: flex-end;
+}
+.box{
+    margin-right: 20px;
+    color: blue;
+    font-weight: bolder;
+}
