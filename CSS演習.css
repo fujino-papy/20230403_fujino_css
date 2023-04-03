@@ -1,13 +1,21 @@
-.absolute__img {
-    position: absolute;
-    margin-left: 70%;
+.main{
+    padding-top: 35%;
 }
 .relative__box {
     position: relative;
     width: 70%;
     height: 200px;
     bottom: 15%;
-    background: purple;
+    background: #00277E;
+    z-index: -1;
+}
+.absolute__img {
+    position: absolute;
+    margin-top: -28%;
+    margin-left: 50%;
+}
+.header {
+    padding: 20px;
 }
 p{
     font-size: 75px;
