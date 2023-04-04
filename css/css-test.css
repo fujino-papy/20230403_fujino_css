@@ -1,21 +1,18 @@
 .main{
-    padding-top: 35%;
+    padding-top: 25%;
 }
 .relative__box {
-    position: relative;
+    margin-top: -5%;
     width: 70%;
     height: 200px;
-    bottom: 15%;
     background: #00277E;
-    z-index: -1;
 }
 .absolute__img {
-    position: absolute;
     margin-top: -28%;
     margin-left: 50%;
 }
 .header {
-    padding: 20px;
+    padding: 10px;
 }
 p{
     font-size: 75px;
@@ -23,7 +20,8 @@ p{
 }
 .header_ttl {
     display: block;
-    margin-top: 50px ;
+    margin-top: 20px ;
+    margin-left: 20px;
     width: 300px;
     font-size: 25px;
     color: blue;
